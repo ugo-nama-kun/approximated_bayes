@@ -1,2 +1,2 @@
 # approximated_bayes
-Examples of Approximated Bayes by Backprop as Personal Training of PyTorch
+Examples of Approximated Bayes by backprop as my personal training for PyTorch
